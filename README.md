@@ -73,6 +73,14 @@ Due to the large size of the original ImageNet dataset, we use the Tiny ImageNet
 - Data preprocessing → grayscale + RGB conversion
 - Model training and evaluation included in notebook
 
+## 📓 Notebook
+
+The notebook contains rich visual outputs and may not render directly on GitHub.
+
+- 👉 [View on GitHub](https://github.com/VeraZhang1020/Colorizing-Image-through-Regression/blob/main/AML25_GroupE_Combined_Notebook_1209_v1.ipynb)
+- 👉 [View via nbviewer](https://nbviewer.org/github/VeraZhang1020/Colorizing-Image-through-Regression/blob/main/AML25_GroupE_Combined_Notebook_1209_v1.ipynb)
+- 👉 [Download Notebook](./AML25_GroupE_Combined_Notebook_1209_v1.ipynb)
+
 ---
 
 ## 🚀 Future Work
